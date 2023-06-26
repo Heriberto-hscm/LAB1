@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+h1{
+    color: aquamarine;
+}
+.btn{
+    background-color: rgb(64, 79, 165);
+    padding: 8px;
+    color: aliceblue;
+}
